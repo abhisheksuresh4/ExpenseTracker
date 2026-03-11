@@ -42,13 +42,14 @@ WeatherAware Expense Tracker is a modern Android application built with Jetpack 
 5. Run the app on an emulator or physical device.
 
 ## 📸 Screenshots
- <img width="64" height="54" alt="1000077432" src="https://github.com/user-attachments/assets/a2077a65-a1c3-44bc-8a22-15d378d12194" />
-<img width="64" height="54" alt="1000077431" src="https://github.com/user-attachments/assets/c09e4ac6-ca84-4c25-8bff-ac8c2a875714" />
-<img width="64" height="54" alt="1000077432" src="https://github.com/user-attachments/assets/1e3b47a8-3eb6-42a2-b54e-dbb2fbcf900d" />
+ <img width="100" height="100" alt="1000077432" src="https://github.com/user-attachments/assets/a2077a65-a1c3-44bc-8a22-15d378d12194" />
+<img width="100" height="100" alt="1000077431" src="https://github.com/user-attachments/assets/c09e4ac6-ca84-4c25-8bff-ac8c2a875714" />
+<img width="100" height="100" alt="1000077432" src="https://github.com/user-attachments/assets/1e3b47a8-3eb6-42a2-b54e-dbb2fbcf900d" />
 
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 
 
